@@ -1,4 +1,7 @@
 # Offline AP TetrisClock
+![Image of the clock](https://im7.ezgif.com/tmp/ezgif-7-42bdcb4cbf1a.gif)
+![Web Page used to adjust clock manually](https://i.gyazo.com/6ae9288ceba02d2d25bfd158e6bb51b6.png)
+
 Adaptation of Brian Lough's original Wifi Clock. You can check it out here: https://github.com/witnessmenow/WiFi-Tetris-Clock
 
 Because this was intended to be a gift, I could not have the clock rely on having an access point to talk to (because the credentials are hard to adjust without expertise). Thus, this version is a fully offline clock that hosts a web page that allows your client to "set" the clock.
